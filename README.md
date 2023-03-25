@@ -4,7 +4,7 @@
 
 Investigates trends hidden in travel data.
 Raw data is contained in the travel details dataset.xlsx
-Data was further queried using db browser, sql queries contained in the TravelData.sqbpro.
+Data was further queried using DB browser (SQLite), sql queries contained in the TravelData.sqbpro.
 Cleaned data is saved in the travel details dataset cleaned.xlsx
 
 The powerbi dashboard is found in the link below
