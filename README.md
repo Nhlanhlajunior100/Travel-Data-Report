@@ -1,5 +1,7 @@
 # Travel-Data-Report
 25/03/2023
+
+
 Investigates trends hidden in travel data.
 Raw data is contained in the travel details datasets.xlsx
 Data was further queried using db browser, sql queries contained in the TravelData.sqbpro.
